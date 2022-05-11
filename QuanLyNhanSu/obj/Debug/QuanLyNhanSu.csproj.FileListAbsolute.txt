@@ -1,0 +1,257 @@
+D:\TÀI LIỆU\Học Kì 5\PHân tích thiết kế QUẢN Lý Nhân sự\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+D:\TÀI LIỆU\Học Kì 5\PHân tích thiết kế QUẢN Lý Nhân sự\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe
+D:\TÀI LIỆU\Học Kì 5\PHân tích thiết kế QUẢN Lý Nhân sự\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.pdb
+D:\TÀI LIỆU\Học Kì 5\PHân tích thiết kế QUẢN Lý Nhân sự\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormMain.resources
+D:\TÀI LIỆU\Học Kì 5\PHân tích thiết kế QUẢN Lý Nhân sự\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Properties.Resources.resources
+D:\TÀI LIỆU\Học Kì 5\PHân tích thiết kế QUẢN Lý Nhân sự\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ThongTinNhanThan.resources
+D:\TÀI LIỆU\Học Kì 5\PHân tích thiết kế QUẢN Lý Nhân sự\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ThongTinNhanVien.resources
+D:\TÀI LIỆU\Học Kì 5\PHân tích thiết kế QUẢN Lý Nhân sự\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.GenerateResource.Cache
+D:\TÀI LIỆU\Học Kì 5\PHân tích thiết kế QUẢN Lý Nhân sự\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+D:\TÀI LIỆU\Học Kì 5\PHân tích thiết kế QUẢN Lý Nhân sự\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
+D:\TÀI LIỆU\Học Kì 5\PHân tích thiết kế QUẢN Lý Nhân sự\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.PhongBan.resources
+D:\TÀI LIỆU\Học Kì 5\PHân tích thiết kế QUẢN Lý Nhân sự\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.QuaTrinhLamViec.resources
+D:\TÀI LIỆU\Học Kì 5\PHân tích thiết kế QUẢN Lý Nhân sự\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ChamCong.resources
+D:\TÀI LIỆU\Học Kì 5\PHân tích thiết kế QUẢN Lý Nhân sự\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ChiTietChamCong.resources
+D:\TÀI LIỆU\Học Kì 5\PHân tích thiết kế QUẢN Lý Nhân sự\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.BienDongTIenLuong.resources
+D:\TÀI LIỆU\Học Kì 5\PHân tích thiết kế QUẢN Lý Nhân sự\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.DanhSachBaoHiemcs.resources
+D:\TÀI LIỆU\Học Kì 5\PHân tích thiết kế QUẢN Lý Nhân sự\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.KhenThuongKyLuat.resources
+D:\TÀI LIỆU\Học Kì 5\PHân tích thiết kế QUẢN Lý Nhân sự\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.BangLuong.resources
+D:\TÀI LIỆU\Học Kì 5\PHân tích thiết kế QUẢN Lý Nhân sự\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csprojResolveAssemblyReference.cache
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.pdb
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.AssemblyReference.cache
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.BangLuong.resources
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.BienDongTIenLuong.resources
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ChamCong.resources
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ChiTietChamCong.resources
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.DanhSachBaoHiemcs.resources
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormMain.resources
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.KhenThuongKyLuat.resources
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.PhongBan.resources
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Properties.Resources.resources
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.QuaTrinhLamViec.resources
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ThongTinNhanThan.resources
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ThongTinNhanVien.resources
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.GenerateResource.cache
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.CoreCompileInputs.cache
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\FontAwesome.Sharp.dll
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.CopyComplete
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.DangNhap.resources
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.quanlytaikhoan.resources
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ChucVu.resources
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Form1.resources
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\RdlCompile.cache
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\RdlCompile.compiled
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Reportnhanvien.resources
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.ReportViewer.Design.dll
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\EnvDTE.dll
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\stdole.dll
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\EnvDTE80.dll
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.Build.Tasks.Core.dll
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\VSLangProj.dll
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\VSLangProj80.dll
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Newtonsoft.Json.dll
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.MSXML.dll
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.Build.Utilities.Core.dll
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.Build.Framework.dll
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\VSLangProj2.dll
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\New folder\Quản Lý Nhân Sự Cover\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe.config
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.pdb
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\EnvDTE.dll
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\stdole.dll
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\EnvDTE80.dll
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\VSLangProj.dll
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\VSLangProj80.dll
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Newtonsoft.Json.dll
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.MSXML.dll
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\VSLangProj2.dll
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.AssemblyReference.cache
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe.config
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.BangLuong.resources
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.BienDongTIenLuong.resources
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ChamCong.resources
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ChiTietChamCong.resources
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ChucVu.resources
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.DangNhap.resources
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.DanhSachBaoHiemcs.resources
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Form1.resources
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FormMain.resources
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.KhenThuongKyLuat.resources
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.PhongBan.resources
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Properties.Resources.resources
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.quanlytaikhoan.resources
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.QuaTrinhLamViec.resources
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Reportnhanvien.resources
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ThongTinNhanThan.resources
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.ThongTinNhanVien.resources
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.GenerateResource.cache
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\RdlCompile.cache
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\RdlCompile.compiled
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.CoreCompileInputs.cache
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.CopyComplete
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+C:\Users\thoai\OneDrive\Desktop\Quản Lý Nhân Sự\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
